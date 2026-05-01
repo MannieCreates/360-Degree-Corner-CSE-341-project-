@@ -1,0 +1,4 @@
+“Welcome to 360-Degree Corner” is a multi-functional online grocery shopping system developed using 8086 assembly language, designed to simulate a complete and interactive e-commerce environment. The system supports multiple user interfaces including welcome, admin, and customer pages with smooth navigation between them. It features secure admin authentication, product inventory management, and dynamic cart functionality where customers can add items based on real-time stock validation. Users can manage their cart by updating or deleting items, continue shopping, or proceed to place orders with automatic bill calculation. Enhanced with bonus features like coupon-based discounts, BDT to USD currency conversion, and detailed bill generation, this project demonstrates an efficient and structured approach to implementing a real-world shopping system using low-level programming concepts.
+
+Theory Faculty : Rafeed Rahman (RRH)
+Lab Faculty : Tanjim Reza , TBD
